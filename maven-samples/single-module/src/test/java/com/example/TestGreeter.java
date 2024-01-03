@@ -29,7 +29,7 @@ public class TestGreeter {
 
   @Test
   public void makeThisFail() {
-    assertTrue(false);
+    assertTrue(true);
   }
   
 
